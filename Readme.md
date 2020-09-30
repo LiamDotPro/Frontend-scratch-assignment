@@ -17,19 +17,19 @@ This assignment should take no longer than 4 hours, though feel free to take a l
 - Firstly you should fork or clone this repository to your own account and all work should be done alongside the files here (were expecting to see a professional commit history).
 - The code that you submit should be considered production ready, submissions which keep this in mind often come across better.
 - Try to avoid using any for your typescript definitions, we expect to see properly constructed type safety everywhere.
-- The final solution must work and run, please provide setup instructions if it's not already clear how to run the code.
+- The final solution should work and run, please provide setup instructions if it's not already clear how to run the code.
 - We have provided some extra space below the assignment under notes here if you'd like to you can make some notes about the assignment or any of the decisions you made.
 
 Finally, once you think you've finished the assignment please send a link to a publicly accessible repository, so our team is able to take a look over the code
 
 # The Assignment
 
-In this assignment you will be producing three separate pages that all have separate challenges linked to them (Don't worry there quite simple) each challenge attempts to test your ability at something different from the other.
+In this assignment you will be producing three separate pages that all have separate challenges linked to them (Don't worry they're quite simple) each challenge attempts to test your ability at something different from the other.
 
 ### Initial setup:
 
-1) You must bootstrap a new Vue application, we don't mind how you choose to do this.
-2) You must setup routing to have the following:
+1) Bootstrap a new Vue application, we don't mind how you choose to do this.
+2) Setup routing to have the following:
 
 - /challenge-1
 - /challenge-2
