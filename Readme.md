@@ -28,7 +28,7 @@ In this assignment you will be producing three separate pages that all have sepa
 
 ### Initial setup:
 
-1) Bootstrap a new Vue application, we don't mind how you choose to do this.
+1) Bootstrap a new React application, we don't mind how you choose to do this.
 2) Setup routing to have the following:
 
 - /challenge-1
