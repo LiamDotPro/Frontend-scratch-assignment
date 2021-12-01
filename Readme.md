@@ -1,12 +1,12 @@
 # Assignment
 
 Hello and welcome to your assignment! In this document I'm going to lay out the objectives, and some ground rules.
-This test is primarily to test your ability to set up and start working on something in Vue with Typescript.
+This test is primarily to test your ability to set up and start working on something in React with Typescript.
  
 # Technologies
 The following technologies must be used:
 
-- Vue 2+
+- React v16.7+ (hooks)
 - Typescript
 
 Other than the above your more than welcome to use anything that you think might make this task simpler, better or more production ready.
@@ -41,7 +41,7 @@ By default, when the application loads we are expecting `/challenge-1` to be pre
 
 You are required to produce a small calculator that takes two values in btc using this format: `0.00000000` and adds them together. Using the result of this calculation the result will be displayed. Following uses of this calculator will take the last value calculated and add it to the previous one. It shouldn't matter if a user enters a string or number, special charchters or negative numbers aren't supported and should stop the calculation from being run.
 
-Don't worry too much about visuals with this, focus on making the code behind the scene's work well.
+Don't worry too much about visuals with this, focus on making the code behind the scene's work well and catch the edge cases.
 
 ### Challenge 2
 
